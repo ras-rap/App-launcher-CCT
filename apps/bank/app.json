@@ -1,0 +1,7 @@
+{
+    "offical": false,
+    "name": "Bank",
+    "description": "A bank app.",
+    "version": "1.0.0",
+    "developers": ["Alex"]
+}

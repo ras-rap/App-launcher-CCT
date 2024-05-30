@@ -1,0 +1,7 @@
+{
+    "offical": false,
+    "name": "Appstore",
+    "description": "The appstore you are currently using.",
+    "version": "1.0.0",
+    "developers": ["Ras_rap"]
+}
